@@ -90,7 +90,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [320, 376.0]
+    coordinate: [320, 348.0]
     rotation: 180
     state: true
 - name: blocks_multiply_const_vxx_0
@@ -120,7 +120,7 @@ blocks:
     k: '30'
     maxoutbuf: '0'
     minoutbuf: '0'
-    n: '1'
+    n: '10'
     vlen: '1'
   states:
     bus_sink: false
@@ -138,7 +138,7 @@ blocks:
     k: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
-    n: '1'
+    n: '10'
     vlen: '1'
   states:
     bus_sink: false
@@ -183,7 +183,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [280, 468.0]
+    coordinate: [280, 428.0]
     rotation: 0
     state: true
 - name: pad_source_0
